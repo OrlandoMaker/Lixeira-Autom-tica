@@ -1,1 +1,1 @@
-# Lixeira-Autom-tica
+# Lixeira-Automatica
